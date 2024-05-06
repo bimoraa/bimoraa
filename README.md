@@ -1,6 +1,7 @@
 ## Hi, I'm Rian Febriansyah <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Rian Febriansyah, Lua Developer Not a Content Creator.
+
 ![Discord Presence](https://discord.c99.nl/widget/theme-3/1118453649727823974.png
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=25&pause=1000&color=7629F7&random=false&width=435&lines=Hello%2C+Im+Rian+Febriansyah!;LuaU+Developer;14+y.o+Developer;Nice+to+meet+You!)](https://git.io/typing-svg)
