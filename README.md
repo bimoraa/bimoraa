@@ -1,15 +1,28 @@
+## Hi, I'm Rian Febriansyah <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1118453649727823974) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_febrianza1) 
+I'm Rian Febriansyah, Lua Developer Not a Content Creator.
+![Discord Presence](https://discord.c99.nl/widget/theme-3/1118453649727823974.png
 
-# 💻 Tech Stack:
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VisionExe&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VisionExe&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VisionExe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=25&pause=1000&color=7629F7&random=false&width=435&lines=Hello%2C+Im+Rian+Febriansyah!;LuaU+Developer;14+y.o+Developer;Nice+to+meet+You!)](https://git.io/typing-svg)
 
----
-[![](https://visitcount.itsvg.in/api?id=VisionExe&icon=0&color=0)](https://visitcount.itsvg.in)
+- 🧑‍💻 14 y.o Developer
+- 💼 Azure Softworks Developer, and Fritzy Hub Developer
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Top Language
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+
+<br />
+
+### Github Stats
+
+![VisionExe github stats](https://github-readme-stats.vercel.app/api?username=VisionExe&count_private=true&show_icons=true&theme=radical)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VisionExe&layout=compact&theme=radical" />
+</a>
+
+</details>
