@@ -10,7 +10,7 @@ I'm Rian Febriansyah, Lua Developer Not a Content Creator.
 - 💼 Azure Softworks Developer, and Fritzy Hub Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+Experience;Developer;UI+Designer;Feature+Developer)](https://git.io/typing-svg)<br/>
-**💼 Experience**
+### **💼 Experience**
 
 **🚀 Alora Hub** ©
 - **Role:** Feature Developer
