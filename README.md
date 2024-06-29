@@ -6,35 +6,21 @@ I'm Rian Febriansyah, Lua Developer Not a Content Creator.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=25&pause=1000&color=7629F7&random=false&width=435&lines=Hello%2C+Im+Rian+Febriansyah!;LuaU+Developer;14+y.o+Developer;Nice+to+meet+You!)](https://git.io/typing-svg)
 
-- 🧑‍💻 14 y.o Developer
-- 💼 Azure Softworks Developer, and Fritzy Hub Developer
+### About Me
+
+- 🧑‍💻 Passionate about coding and software development
+- 🎯 Focused on creating efficient and user-friendly applications
+- 🌱 Always eager to learn and grow
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+Experience;Developer;UI+Designer;Feature+Developer)](https://git.io/typing-svg)<br/>
-### **💼 Experience**
 
-**🚀 Alora Softwork Inc** ©
-- **Role:** Feature Developer
-- **Duration:** 2 years
-- **Summary:** Developed and implemented new features, enhancing platform functionality and user experience.
+### Experience
 
-**🌞 Solar Development LLC** ©
-- **Role:** UI Developer
-- **Duration:** 1.2 years
-- **Summary:** Designed and developed user interfaces, ensuring seamless and intuitive experiences.
-
-**🧪 Azure Softworks** ©
-- **Role:** UI Designer & Feature Developer
-- **Duration:** 1 year
-- **Summary:** Led UI design and feature development, improving aesthetics and functionality.
-
-**👑 Atomius Development** ©
-- **Role:** Owner
-- **Summary:** Managed all aspects from development to deployment, ensuring growth and success.
-
-**⚙️ Sades Softwork LLC** ©
-- **Role:** Feature Developer
-- **Duration:** 1 month
-- **Summary:** Contributed to new feature development, delivering high-quality enhancements.
+- **Alora Softwork Inc** - Feature Developer (2 years)
+- **Solar Development LLC** - UI Developer (1.2 years)
+- **Azure Softworks** - UI Designer & Feature Developer (1 year)
+- **Atomius Development** - Owner
+- **Sades Softwork LLC** - Feature Developer (1 month)
 
 ### Top Language
 
