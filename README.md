@@ -12,26 +12,26 @@ I'm Rian Febriansyah, Lua Developer Not a Content Creator.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+Experience;Developer;UI+Designer;Feature+Developer)](https://git.io/typing-svg)<br/>
 ### **💼 Experience**
 
-**🚀 Alora Hub** ©
+**🚀 Alora Softwork Inc** ©
 - **Role:** Feature Developer
 - **Duration:** 2 years
 - **Summary:** Developed and implemented new features, enhancing platform functionality and user experience.
 
-**🌞 Solar Hub** ©
+**🌞 Solar Development LLC** ©
 - **Role:** UI Developer
 - **Duration:** 1.2 years
 - **Summary:** Designed and developed user interfaces, ensuring seamless and intuitive experiences.
 
-**🧪 Atomis Hub** ©
+**🧪 Azure Softworks** ©
 - **Role:** UI Designer & Feature Developer
 - **Duration:** 1 year
 - **Summary:** Led UI design and feature development, improving aesthetics and functionality.
 
-**👑 Atomius Hub** ©
+**👑 Atomius Development** ©
 - **Role:** Owner
 - **Summary:** Managed all aspects from development to deployment, ensuring growth and success.
 
-**⚙️ Sades Hub** ©
+**⚙️ Sades Softwork LLC** ©
 - **Role:** Feature Developer
 - **Duration:** 1 month
 - **Summary:** Contributed to new feature development, delivering high-quality enhancements.
