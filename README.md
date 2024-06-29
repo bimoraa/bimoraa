@@ -9,6 +9,32 @@ I'm Rian Febriansyah, Lua Developer Not a Content Creator.
 - 🧑‍💻 14 y.o Developer
 - 💼 Azure Softworks Developer, and Fritzy Hub Developer
 
+**Experience**
+
+**Alora Hub** ©
+- **Position:** Feature Developer
+- **Duration:** 2 years
+- **Description:** Developed and implemented new features, enhancing the overall functionality and user experience of the platform. Collaborated with cross-functional teams to deliver high-quality software solutions.
+
+**Solar Hub** ©
+- **Position:** UI Developer
+- **Duration:** 1.2 years
+- **Description:** Focused on designing and developing user interfaces, ensuring a seamless and intuitive user experience. Worked closely with designers and backend developers to create responsive and visually appealing web applications.
+
+**Atomis Hub** ©
+- **Position:** UI Designer and Feature Developer
+- **Duration:** 1 year
+- **Description:** Led the design and development of user interfaces and new features. Played a key role in improving the platform's aesthetics and functionality, contributing to user satisfaction and engagement.
+
+**Atomius Hub** ©
+- **Position:** Owner
+- **Description:** Managed all aspects of the hub, from development to deployment. Oversaw the creation of innovative features and user interfaces, ensuring the hub's growth and success.
+
+**Sades Hub** ©
+- **Position:** Feature Developer
+- **Duration:** 1 month
+- **Description:** Contributed to the development of new features, working with a dynamic team to deliver high-quality software enhancements within a short timeframe.
+
 ### Top Language
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
