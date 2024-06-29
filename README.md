@@ -16,11 +16,11 @@ I'm Rian Febriansyah, Lua Developer Not a Content Creator.
 
 ### Experience
 
-- **Alora Softwork Inc** - Feature Developer (2 years)
-- **Solar Development LLC** - UI Developer (1.2 years)
-- **Azure Softworks** - UI Designer & Feature Developer (1 year)
-- **Atomius Development** - Owner
-- **Sades Softwork LLC** - Feature Developer (1 month)
+**🚀 Alora Softwork Inc** ® - Feature Developer (2 years)  
+**🌞 Solar Development LLC** ® - UI Developer (1.2 years)  
+**🧪 Azure Softworks** ® - UI Designer & Feature Developer (1 year)  
+**👑 Atomius Development** ® - Owner  
+**⚙️ Sades Softwork LLC** ® - Feature Developer (1 month)  
 
 ### Top Language
 
