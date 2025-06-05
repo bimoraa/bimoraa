@@ -1,6 +1,6 @@
-## Hi, I'm Alexander Bryan Suandi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi, I'm Bryan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Alexander Bryan Suandi, Lua Developer Not a Content Creator.
+I'm Bryan, Lua Developer Not a Content Creator.
 
 ![Discord Presence](https://discord.c99.nl/widget/theme-3/1118453649727823974.png)
 
