@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=F70000&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=16+y%2Fo+Software+Architect+%F0%9F%8F%97%EF%B8%8F;Luau+%26+Full+Stack+Developer+%F0%9F%92%BB;Creating+Magic+with+Code+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
-[![Discord Presence](https://lanyard.cnrad.dev/api/1118453649727823974)](https://discord.com/users/1118453649727823974)
+
 <!-- Animated Badges -->
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Luau%20Development-ff6b6b?style=for-the-badge&logo=lua&logoColor=white&labelColor=4c1d95&color=7c3aed" alt="Focus"/>
@@ -78,7 +78,7 @@ local VisionExe = {
         Discord = "starrykitsch",
         Instagram = "@_.alxndr.bryn",
         Email = "alexander@getsades.net",
-        Roblox = "VisionExeDev"
+        Roblox = "HillaryKuroKami"
     }
 }
 
@@ -151,6 +151,27 @@ print("Let's build something amazing together! 🚀")
 
 </div>
 
+<!-- Project Showcase with Custom Cards -->
+<h2 align="center">🚀 Featured Creations</h2>
+
+<div align="center">
+  <a href="https://github.com/VisionExe/luau-framework">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=VisionExe&repo=luau-framework&theme=radical&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+  </a>
+  <a href="https://github.com/VisionExe/roblox-ai-npcs">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=VisionExe&repo=roblox-ai-npcs&theme=radical&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/VisionExe/web3-gaming">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=VisionExe&repo=web3-gaming&theme=radical&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+  </a>
+  <a href="https://github.com/VisionExe/fullstack-dashboard">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=VisionExe&repo=fullstack-dashboard&theme=radical&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+  </a>
+</div>
+
 <!-- Contribution Activity Graph -->
 <h2 align="center">📈 Coding Journey</h2>
 
@@ -177,7 +198,7 @@ print("Let's build something amazing together! 🚀")
   <a href="mailto:alexander@getsades.net">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Get%20in%20Touch&labelColor=D14836" alt="Email"/>
   </a>
-  <a href="https://www.roblox.com/users/HillaryKuroKami/profile">
+  <a href="https://www.roblox.com/users/VisionExeDev/profile">
     <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white&label=VisionExeDev&labelColor=E60012" alt="Roblox"/>
   </a>
 </div>
@@ -185,8 +206,15 @@ print("Let's build something amazing together! 🚀")
 <!-- Discord Presence Card -->
 <div align="center">
   <br/>
-  [![Discord Presence](https://lanyard.cnrad.dev/api/1118453649727823974)](https://discord.com/users/1118453649727823974)
-  <img src="https://lanyard.cnrad.dev/api/1118453649727823974?theme=dark&bg=1a1b27&borderRadius=20px&idleMessage=Probably%20coding%20in%20Luau%20🚀&animated=true" alt="Discord Presence" width="410"/>
+  <!-- Option 1: Lanyard (requires joining their Discord server) -->
+  <a href="https://discord.com/users/1118453649727823974">
+    <img src="https://lanyard-profile-readme.vercel.app/api/1118453649727823974?theme=dark&bg=1a1b27&animated=true&hideDiscrim=false&borderRadius=20px&idleMessage=Probably%20coding%20in%20Luau%20🚀" alt="Discord Presence" width="410"/>
+  </a>
+  
+  <!-- Alternative: Static Discord Card if Lanyard doesn't work -->
+  <!--
+  <img src="https://discord.c99.nl/widget/theme-4/1118453649727823974.png" alt="Discord" width="410"/>
+  -->
 </div>
 
 <!-- WakaTime Stats -->
@@ -220,6 +248,15 @@ print("Let's build something amazing together! 🚀")
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,14,20,30&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 </div>
+
+<!-- Setup Instructions (Hidden Comment)
+Discord Presence Setup:
+1. Join the Lanyard Discord server: https://discord.gg/lanyard
+2. Your Discord status will then appear on the card
+3. If Lanyard doesn't work, uncomment the alternative Discord widget in the code
+
+Note: Make sure all repository names in the "Featured Creations" section exist or create them!
+-->
 
 <!-- Snake Animation -->
 <div align="center">
