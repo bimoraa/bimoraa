@@ -177,7 +177,7 @@ print("Let's build something amazing together! 🚀")
   <a href="mailto:alexander@getsades.net">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Get%20in%20Touch&labelColor=D14836" alt="Email"/>
   </a>
-  <a href="https://www.roblox.com/users/VisionExeDev/profile">
+  <a href="https://www.roblox.com/users/HillaryKuroKami/profile">
     <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white&label=VisionExeDev&labelColor=E60012" alt="Roblox"/>
   </a>
 </div>
@@ -185,6 +185,7 @@ print("Let's build something amazing together! 🚀")
 <!-- Discord Presence Card -->
 <div align="center">
   <br/>
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1118453649727823974)](https://discord.com/users/1118453649727823974)
   <img src="https://lanyard.cnrad.dev/api/1118453649727823974?theme=dark&bg=1a1b27&borderRadius=20px&idleMessage=Probably%20coding%20in%20Luau%20🚀&animated=true" alt="Discord Presence" width="410"/>
 </div>
 
