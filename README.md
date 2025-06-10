@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=F70000&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=16+y%2Fo+Software+Architect+%F0%9F%8F%97%EF%B8%8F;Luau+%26+Full+Stack+Developer+%F0%9F%92%BB;Creating+Magic+with+Code+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/1118453649727823974)](https://discord.com/users/1118453649727823974)
 <!-- Animated Badges -->
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Luau%20Development-ff6b6b?style=for-the-badge&logo=lua&logoColor=white&labelColor=4c1d95&color=7c3aed" alt="Focus"/>
