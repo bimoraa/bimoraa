@@ -186,12 +186,6 @@ return alexander_bryan
   -->
 </div>
 
-<!-- WakaTime Stats -->
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VisionExe&theme=radical&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=10" alt="WakaTime stats" />
-</div>
-
 <!-- Random Quote with Custom Styling -->
 <div align="center">
   <br/>
