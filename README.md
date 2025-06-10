@@ -151,27 +151,6 @@ print("Let's build something amazing together! 🚀")
 
 </div>
 
-<!-- Project Showcase with Custom Cards -->
-<h2 align="center">🚀 Featured Creations</h2>
-
-<div align="center">
-  <a href="https://github.com/VisionExe/luau-framework">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=VisionExe&repo=luau-framework&theme=radical&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
-  </a>
-  <a href="https://github.com/VisionExe/roblox-ai-npcs">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=VisionExe&repo=roblox-ai-npcs&theme=radical&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/VisionExe/web3-gaming">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=VisionExe&repo=web3-gaming&theme=radical&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
-  </a>
-  <a href="https://github.com/VisionExe/fullstack-dashboard">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=VisionExe&repo=fullstack-dashboard&theme=radical&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
-  </a>
-</div>
-
 <!-- Contribution Activity Graph -->
 <h2 align="center">📈 Coding Journey</h2>
 
