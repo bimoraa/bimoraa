@@ -91,11 +91,11 @@ const VisionExe = {
 <h2 align="center">🎯 Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/VisionExe/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VisionExe&repo=project1&theme=github_dark&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/VisionExe/Sades-Development">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VisionExe&repo=Sades-Development&theme=github_dark&hide_border=true&bg_color=0D1117" />
   </a>
-  <a href="https://github.com/VisionExe/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VisionExe&repo=project2&theme=github_dark&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/VisionExe/Sades-Development">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VisionExe&repo=Sades-Development&theme=github_dark&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
