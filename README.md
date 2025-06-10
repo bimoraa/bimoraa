@@ -29,60 +29,50 @@
 <summary><h2>🌟 Digital Identity</h2></summary>
 
 ```lua
--- Welcome to my digital universe! 🌌
-local VisionExe = {
-    Identity = {
-        Name = "Alexander Bryan Putra",
-        Age = 16,
-        Location = "Building in the Metaverse 🌐",
-        Pronouns = "he/him",
-        Passion = "Crafting Digital Experiences"
+local alexander_bryan: table = {
+    name     = "Alexander Bryan Putra",
+    age      = 16,
+    location = "Indonesia 🇮🇩",
+    role     = "Full-Stack Developer",
+    
+    languages = {
+        expert   = {"Luau", "JavaScript", "TypeScript"},
+        learning = {"Rust", "Go"}
     },
     
-    Expertise = {
-        Primary = {"Luau", "Roblox Development", "Game Systems"},
-        Languages = {
-            "Luau 🔥", "JavaScript", "TypeScript", "Python", 
-            "C++", "C#", "PHP", "Rust", "Go", "Java"
+    frameworks = {
+        frontend = {"React", "Next.js", "TailwindCSS"},
+        backend  = {"Node.js", "Express", "FastAPI"},
+        gamedev  = {"Roblox Studio", "Roact"}
+    },
+    
+    projects = {
+        {
+            name   = "📱 JKT48 Private Message ( FAN MADE )",
+            desc   = "Just Redesign.",
+            status = "Private"
         },
-        Frontend = {
-            "React", "Next.js", "Vue.js", "Svelte",
-            "TailwindCSS", "Framer Motion", "Three.js"
+        {
+            name   = "🎮 Roblox Indonesian Voice",
+            desc   = "-",
+            status = "In Development"
         },
-        Backend = {
-            "Node.js", "Express", "FastAPI", "Django",
-            "ASP.NET Core", "GraphQL", "gRPC"
-        },
-        GameDev = {
-            "Roblox Studio", "Unity", "Unreal Engine",
-            "Game Architecture", "Multiplayer Systems"
-        },
-        Databases = {
-            "MongoDB", "PostgreSQL", "Redis", "Prisma",
-            "DataStore (Roblox)", "Firebase"
+        {
+            name  = "🤖 Discord Bot",
+            desc  = "Music & moderation bot using Discord.js",
+            status = "In Development"
         }
     },
     
-    CurrentProjects = function()
-        return {
-            "🎮 Advanced Roblox Game Framework",
-            "🤖 AI-Powered NPCs using Luau",
-            "🌐 Cross-Platform Game Analytics",
-            "📱 Mobile-First Web Experiences"
-        }
-    end,
-    
-    LifePhilosophy = "Every bug is a stepping stone to mastery 🪜",
-    
-    Connect = {
-        Discord = "starrykitsch",
-        Instagram = "@_.alxndr.bryn",
-        Email = "alexander@getsades.net",
-        Roblox = "HillaryKuroKami"
+    socials = {
+        discord   = "starrykitsch",
+        instagram = "@_.alxndr.bryn",
+        roblox    = "HillaryKuroKami",
+        email     = "alexander@getsades.net"
     }
 }
 
-print("Let's build something amazing together! 🚀")
+return alexander_bryan
 ```
 </details>
 
