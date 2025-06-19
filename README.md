@@ -1,231 +1,155 @@
-<!-- Animated Wave Header -->
+<!-- Minimalist Header with Gradient Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,10,14,20,30&height=300&section=header&text=VisionExe&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=🚀%20Building%20Tomorrow's%20Digital%20Experiences&descAlignY=75&descSize=22&stroke=ffffff&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=150&text=VisionExe&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&strokeWidth=0" width="100%"/>
 </div>
 
-<!-- Animated Typing with Gradient -->
+<!-- Clean Typography with Subtle Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=F70000&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=16+y%2Fo+Software+Architect+%F0%9F%8F%97%EF%B8%8F;Luau+%26+Full+Stack+Developer+%F0%9F%92%BB;Creating+Magic+with+Code+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=20&duration=3000&pause=1000&color=ffffff&background=00000000&center=true&vCenter=true&width=600&lines=Software+Architect+%E2%80%A2+16+y%2Fo;Specializing+in+Luau+%26+Modern+Web;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Animated Badges -->
+<br>
+
+<!-- Minimalist Stats Cards -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Luau%20Development-ff6b6b?style=for-the-badge&logo=lua&logoColor=white&labelColor=4c1d95&color=7c3aed" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Age-16%20years-4cc9f0?style=for-the-badge&logoColor=white&labelColor=560bad&color=7209b7" alt="Age"/>
-  <img src="https://img.shields.io/badge/Location-Cloud%20Native-4895ef?style=for-the-badge&logo=icloud&logoColor=white&labelColor=3a0ca3&color=4361ee" alt="Location"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/FOCUS-Luau%20Development-000?style=flat-square&logo=lua&logoColor=fff&labelColor=000" alt="Focus"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/LOCATION-Indonesia-000?style=flat-square&logo=google-maps&logoColor=fff&labelColor=000" alt="Location"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/STATUS-Open%20to%20Collaborate-000?style=flat-square&logo=handshake&logoColor=fff&labelColor=000" alt="Status"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br/>
+<br>
 
-<!-- Modern Profile Card -->
+<!-- Modern About Section -->
 <div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=VisionExe&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" width="65%"/>
-</div>
-
-<!-- About Section with Glassmorphism Style -->
-<details open>
-<summary><h2>🌟 Digital Identity</h2></summary>
-
-```lua
-local alexander_bryan: table = {
-    name     = "Alexander Bryan Putra",
-    age      = 16,
-    location = "Indonesia 🇮🇩",
-    role     = "Full-Stack Developer",
+  <details>
+    <summary><b>about.md</b></summary>
+    <br>
     
-    languages = {
-        expert   = {"Luau", "JavaScript", "TypeScript"},
-        learning = {"Rust", "Go"}
+```javascript
+const developer = {
+    name: "Alexander Bryan Putra",
+    age: 16,
+    location: "Indonesia",
+    
+    expertise: ["Luau", "TypeScript", "React", "Node.js"],
+    learning: ["Rust", "Go", "Three.js"],
+    
+    currentFocus: {
+        "🎮": "Roblox Indonesian Voice",
+        "💬": "JKT48 Private Message Redesign",
+        "🤖": "Discord Bot Development"
     },
     
-    frameworks = {
-        frontend = {"React", "Next.js", "TailwindCSS"},
-        backend  = {"Node.js", "Express", "FastAPI"},
-        gamedev  = {"Roblox Studio", "Roact"}
-    },
-    
-    projects = {
-        {
-            name   = "📱 JKT48 Private Message ( FAN MADE )",
-            desc   = "Just Redesign.",
-            status = "Private"
-        },
-        {
-            name   = "🎮 Roblox Indonesian Voice",
-            desc   = "-",
-            status = "In Development"
-        },
-        {
-            name  = "🤖 Discord Bot",
-            desc  = "Music & moderation bot using Discord.js",
-            status = "In Development"
-        }
-    },
-    
-    socials = {
-        discord   = "starrykitsch",
-        instagram = "@_.alxndr.bryn",
-        roblox    = "HillaryKuroKami",
-        email     = "alexander@getsades.net"
+    contact: {
+        discord: "starrykitsch",
+        email: "alexander@getsades.net"
     }
-}
-
-return alexander_bryan
+};
 ```
-</details>
-
-<!-- Modern Stats Dashboard -->
-<h2 align="center">📊 Performance Metrics</h2>
-
-<div align="center">
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=VisionExe&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=20&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&border_color=0d1117" alt="readme stats" />
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=VisionExe&theme=react&border_radius=20&background=1a1b27&stroke=0d1117&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae&border=0d1117" alt="streak stats"/>
+  </details>
 </div>
 
-<!-- Language Stats with Animation -->
+<br>
+
+<!-- Clean GitHub Stats -->
 <div align="center">
-  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=VisionExe&layout=donut&langs_count=20&theme=react&border_radius=20&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&border_color=0d1117&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VisionExe&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&include_all_commits=true&count_private=true&hide_title=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisionExe&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&langs_count=6&hide=html,css" />
 </div>
 
-<!-- 3D Contributions -->
+<br>
+
+<!-- Minimalist Tech Stack -->
 <div align="center">
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VisionExe&theme=2077" alt="Contribution Graph" />
-</div>
-
-<!-- Tech Stack with Modern Icons -->
-<h2 align="center">🛠️ Technology Arsenal</h2>
-
-<div align="center">
-
-### 🎮 Game Development & Luau
-![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white)
-![Roblox](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-
-### 💻 Core Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🎨 Frontend Magic
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend Power
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### 🗄️ Data & DevOps
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
-
-<!-- Contribution Activity Graph -->
-<h2 align="center">📈 Coding Journey</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VisionExe&theme=react-dark&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=16" alt="activity graph">
-</div>
-
-<!-- Trophies with Animation -->
-<div align="center">
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=VisionExe&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,MultiLanguage" width="100%" alt="Trophy" align="middle" />
-</div>
-
-<!-- Connect Section with Modern Buttons -->
-<h2 align="center">🤝 Let's Connect!</h2>
-
-<div align="center">
-  <a href="https://discord.com/users/1118453649727823974">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&label=starrykitsch&labelColor=5865F2" alt="Discord"/>
-  </a>
-  <a href="https://instagram.com/_.alxndr.bryn">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=@_.alxndr.bryn&labelColor=C13584" alt="Instagram"/>
-  </a>
-  <a href="mailto:alexander@getsades.net">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Get%20in%20Touch&labelColor=D14836" alt="Email"/>
-  </a>
-  <a href="https://www.roblox.com/users/VisionExeDev/profile">
-    <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white&label=VisionExeDev&labelColor=E60012" alt="Roblox"/>
-  </a>
-</div>
-
-<!-- Discord Presence Card -->
-<div align="center">
-  <br/>
-  <!-- Option 1: Lanyard (requires joining their Discord server) -->
-  <a href="https://discord.com/users/1118453649727823974">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1118453649727823974?theme=dark&bg=1a1b27&animated=true&hideDiscrim=false&borderRadius=20px&idleMessage=Probably%20coding%20in%20Luau%20🚀" alt="Discord Presence" width="410"/>
-  </a>
+  <h3>Tech Stack</h3>
+  <br>
   
-  <!-- Alternative: Static Discord Card if Lanyard doesn't work -->
-  <!--
-  <img src="https://discord.c99.nl/widget/theme-4/1118453649727823974.png" alt="Discord" width="410"/>
-  -->
+  **Languages**  
+  ![Luau](https://img.shields.io/badge/-Luau-000?style=flat&logo=lua&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=white)
+  ![Rust](https://img.shields.io/badge/-Rust-000?style=flat&logo=rust&logoColor=white)
+  
+  **Frameworks**  
+  ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js&logoColor=white)
+  ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=white)
+  
+  **Tools**  
+  ![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-000?style=flat&logo=roblox&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=flat&logo=visual-studio-code&logoColor=white)
 </div>
 
-<!-- Random Quote with Custom Styling -->
+<br>
+
+<!-- Contribution Graph -->
 <div align="center">
-  <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VisionExe&theme=react-dark&hide_border=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&custom_title=Contribution%20Activity" width="90%">
 </div>
+
+<br>
+
+<!-- Connect Section -->
+<div align="center">
+  <h3>Let's Connect</h3>
+  <br>
+  <a href="https://discord.com/users/1118453649727823974">
+    <img src="https://img.shields.io/badge/-Discord-000?style=flat&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/_.alxndr.bryn">
+    <img src="https://img.shields.io/badge/-Instagram-000?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="mailto:alexander@getsades.net">
+    <img src="https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://www.roblox.com/users/VisionExeDev/profile">
+    <img src="https://img.shields.io/badge/-Roblox-000?style=flat&logo=roblox&logoColor=white" alt="Roblox"/>
+  </a>
+</div>
+
+<br>
 
 <!-- Metrics -->
 <div align="center">
-  <br/>
-  <img src="https://metrics.lecoq.io/VisionExe?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FJakarta" alt="Metrics" width="400"/>
+  <img src="https://komarev.com/ghpvc/?username=VisionExe&style=flat&color=000000&label=Profile+Views" alt="Profile views"/>
 </div>
 
-<!-- Profile Views and Followers -->
+<br>
+
+<!-- Minimal Footer -->
 <div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=VisionExe&style=for-the-badge&color=70a5fd&label=Profile+Views&logo=eye&logoColor=white" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/VisionExe?style=for-the-badge&color=bf91f3&label=GitHub+Followers&logo=github&logoColor=white" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/VisionExe?style=for-the-badge&color=38bdae&label=Total+Stars&logo=star&logoColor=white" alt="Stars"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:000000&height=100&section=footer&fontSize=0" width="100%"/>
 </div>
 
-<!-- Animated Footer -->
+<!--
+Alternative Ultra-Modern Version with Glassmorphism:
+
+If you want an even more modern look, you can use this CSS-styled version:
+
 <div align="center">
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,14,20,30&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+  <img src="https://img.shields.io/badge/VisionExe-000000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-<!-- Setup Instructions (Hidden Comment)
-Discord Presence Setup:
-1. Join the Lanyard Discord server: https://discord.gg/lanyard
-2. Your Discord status will then appear on the card
-3. If Lanyard doesn't work, uncomment the alternative Discord widget in the code
-
-Note: Make sure all repository names in the "Featured Creations" section exist or create them!
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VisionExe&theme=github_dark" />
+</div>
 -->
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VisionExe/VisionExe/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VisionExe/VisionExe/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VisionExe/VisionExe/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
