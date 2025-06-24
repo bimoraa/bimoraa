@@ -162,7 +162,7 @@
   <a href="mailto:alexander@getsades.net">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.roblox.com/users/VisionExeDev/profile">
+  <a href="https://www.roblox.com/users/HillaryKuroKami">
     <img src="https://img.shields.io/badge/Roblox-E60012?style=for-the-badge&logo=roblox&logoColor=white" />
   </a>
 </div>
