@@ -36,7 +36,6 @@
     age: 16
     location: "Indonesia 🇮🇩"
     motto: "Code, Create, Innovate"
-    font: "Inter, SF Pro Display"
     
   🎯 Expertise:
     primary: ["Luau", "JavaScript", "TypeScript"]
@@ -61,12 +60,6 @@
       status: "🧪 Beta Testing"
       tech: ["Discord.js", "Node.js", "FFmpeg"]
       progress: "90%"
-      
-  📊 Stats:
-    commits_this_year: "500+"
-    active_repositories: "25+"
-    languages_mastered: "8+"
-    projects_completed: "15+"
   ```
   
   </div>
