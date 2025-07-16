@@ -17,7 +17,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/🎯_Focus-Luau_Development-00D4FF?style=for-the-badge&labelColor=1a1a2e&color=0f3460" />
   <img src="https://img.shields.io/badge/🚀_Status-Available_for_Projects-00FF41?style=for-the-badge&labelColor=1a1a2e&color=0f3460" />
-  <img src="https://img.shields.io/badge/📍_Location-Jakarta,_Indonesia-FF6B6B?style=for-the-badge&labelColor=1a1a2e&color=0f3460" />
+  <img src="https://img.shields.io/badge/📍_Location-Bandung,_Indonesia-FF6B6B?style=for-the-badge&labelColor=1a1a2e&color=0f3460" />
 </div>
 
 <!-- nice divider i found -->
