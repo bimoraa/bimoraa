@@ -32,7 +32,7 @@
   const DEVELOPER_INFO = {
     personal: {
       NAME: "Alexander Bryan Putra",
-      ALIAS: "VisionExe",
+      ALIAS: "vision.exe",
       AGE: 16,
       LOCATION: "Bandung, Indonesia",
       TIMEZONE: "UTC+7",
