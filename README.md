@@ -8,14 +8,24 @@
   <img src="https://visitcount.itsvg.in/api?id=VisionExe&label=Profile%20Views&color=0&icon=5&pretty=true" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0,212,255,0.3);" />
 </div>
 
+<!-- 🎵 Spotify now playing -->
+<div align="center" style="margin: 15px 0;">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify/?background_color=0d1117&border_color=00d4ff" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,212,255,0.2);" />
+</div>
+
 <!-- 🔥 Epic matrix visualization -->
 <div align="center" style="margin: 20px 0;">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" style="border-radius: 25px; box-shadow: 0 20px 40px rgba(0, 212, 255, 0.4); border: 2px solid rgba(0, 212, 255, 0.3);">
 </div>
 
-<!-- 🌟 Cool separator with animation -->
+  <!-- 🌟 Cool separator with animation -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+<!-- 🎯 Random dev quote -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=Code%20is%20poetry%20written%20for%20machines%20to%20understand&author=VisionExe" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,212,255,0.2);" />
 </div>
 
 <!-- 💫 Enhanced typing animation with more style -->
@@ -34,6 +44,14 @@
 <!-- 🎨 Fun interactive elements -->
 <div align="center" style="margin: 25px 0;">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&qColor=%2300D4FF&aColor=%23FF6B6B" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,212,255,0.2);" />
+</div>
+
+<!-- 🔥 Animated badges showcase -->
+<div align="center" style="margin: 25px 0;">
+  <img src="https://img.shields.io/badge/⚡_Power_Level-Over_9000-FFD700?style=for-the-badge&labelColor=000000&logo=dragonball" />
+  <img src="https://img.shields.io/badge/🎯_Accuracy-Pixel_Perfect-00FF41?style=for-the-badge&labelColor=000000&logo=target" />
+  <img src="https://img.shields.io/badge/🚀_Deploy_Speed-Lightning_Fast-FF6B6B?style=for-the-badge&labelColor=000000&logo=rocket" />
+  <img src="https://img.shields.io/badge/🧠_Logic_Level-Einstein_Mode-9945FF?style=for-the-badge&labelColor=000000&logo=brain" />
 </div>
 
 <!-- 🎮 Enhanced divider with retro gaming vibe -->
@@ -353,6 +371,19 @@
   <img src="https://img.shields.io/badge/🌙_Night_Owl-Always-4169E1?style=for-the-badge&labelColor=000000" />
 </div>
 
+<!-- 🚧 Currently working on -->
+<div align="center" style="margin: 30px 0;">
+  <h3 align="center" style="color: #00D4FF; margin: 20px 0;">🚧 Currently Working On</h3>
+  <div style="background: linear-gradient(135deg, #0D1117, #161B22, #21262D); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(0,212,255,0.2); border: 2px solid rgba(0,212,255,0.3); max-width: 700px; margin: 0 auto;">
+    <p style="color: #FFFFFF; font-size: 16px; line-height: 1.8; margin: 10px 0;">
+      🎮 <strong style="color: #00D4FF;">Next-Gen Roblox Framework</strong> - Building a revolutionary game development framework<br>
+      🌐 <strong style="color: #FF6B6B;">Portfolio Website 3.0</strong> - Creating an interactive 3D portfolio experience<br>
+      🤖 <strong style="color: #00FF41;">AI Code Assistant</strong> - Developing an AI-powered Luau code generator<br>
+      📱 <strong style="color: #FFD700;">Mobile Game Engine</strong> - Cross-platform game engine for mobile devices
+    </p>
+  </div>
+</div>
+
 <!-- 💡 Enhanced coding quote with style -->
 <div align="center" style="margin: 35px 0;">
   <h3 align="center" style="color: #FFD700; margin: 20px 0;">💡 Daily Wisdom</h3>
@@ -395,4 +426,11 @@
   <div style="background: linear-gradient(135deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4, #FFEAA7); border-radius: 15px; padding: 20px; max-width: 500px; margin: 0 auto; color: #000; font-weight: bold;">
     🎮 Ready to collaborate? Hit me up! 🎮
   </div>
+</div>
+
+<!-- 💎 Final signature -->
+<div align="center" style="margin: 25px 0;">
+  <img src="https://img.shields.io/badge/Made_with-❤️_and_☕-FF1744?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Powered_by-✨_Dreams_and_Code-9C27B0?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Status-Legendary-FFD700?style=for-the-badge&labelColor=000000&logo=star" />
 </div>
