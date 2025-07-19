@@ -226,7 +226,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
 
-<!-- closing message -->
+<!-- closing messagse -->
 <div align="center" style="margin: 25px 0;">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Thanks+for+checking+out+my+profile!;Hit+me+up+for+Luau+projects!;Always+learning+and+building+cool+stuff;Let's+code+something+amazing+together!" style="background: linear-gradient(135deg, #0D1117, #161B22); border-radius: 15px; padding: 20px; box-shadow: 0 10px 25px rgba(0,212,255,0.2);" />
 </div>
