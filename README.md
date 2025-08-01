@@ -166,40 +166,17 @@ graph LR
 - ⚡ **Fun fact:** I believe in the power of clean code and beautiful user experiences
 - 🎨 **Design philosophy:** "Simplicity is the ultimate sophistication"
 
-## 📈 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bimoraa&layout=compact&theme=radical&hide_border=true&border_radius=15&cache_seconds=86400" />
-</div>
-
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://discord.com/users/your-discord-id">
+  <a href="https://discord.com/users/1118453649727823974">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1b27" />
   </a>
-  <a href="https://instagram.com/your-instagram">
+  <a href="https://instagram.com/32encrypted">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1b27" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:starrykitsch@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
-  </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1b27" />
-  </a>
-</div>
-
-## 💼 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/bimoraa/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bimoraa&repo=project1&theme=radical&hide_border=true&border_radius=15&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/bimoraa/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bimoraa&repo=project2&theme=radical&hide_border=true&border_radius=15&cache_seconds=86400" />
   </a>
 </div>
 
