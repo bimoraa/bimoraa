@@ -18,48 +18,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🧑‍💻 About Me
-
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  experience: string;
-  currentFocus: string[];
-  passions: string[];
-  vision: {
-    shortTerm: string;
-    longTerm: string;
-  };
-}
-
-const bimoraa: Developer = {
-  name: "Bimoraa",
-  role: "Full Stack Developer",
-  location: "Indonesia 🇮🇩",
-  experience: "Continuously evolving",
-  
-  currentFocus: [
-    "React & Next.js Ecosystem",
-    "Cloud-Native Development",
-    "Microservices Architecture",
-    "Mobile-First Design"
-  ],
-  
-  passions: [
-    "Clean Code Architecture",
-    "User Experience Design",
-    "Performance Optimization",
-    "Open Source Contribution"
-  ],
-  
-  vision: {
-    shortTerm: "Master modern web technologies & contribute to impactful projects",
-    longTerm: "Create innovative solutions that make a difference in people's lives"
-  }
-};
-```
 
 ## 📊 GitHub Statistics
 
