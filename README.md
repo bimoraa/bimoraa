@@ -1,48 +1,59 @@
+<div align="center">
+
 # hey, im bimora 👋
 
-> fullstack developer from indonesia • building stuff that (hopefully) works
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=fullstack+developer;based+in+indonesia;building+stuff+that+works" alt="Typing SVG" />
 
----
+<br/>
 
-## 📊 github stats
+### github stats
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bimoraa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimoraa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bimoraa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimoraa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9"/>
 
----
+<br/>
 
-## 🛠️ tech stack
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bimoraa&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,python,mongodb,postgres,docker,git" />
-</p>
+<br/>
 
-```javascript
-const bio = {
-    location: "indonesia",
-    languages: ["javascript", "typescript", "python", "lua"],
-    currently: "building web apps & learning new stuff",
-    hobbies: ["coding", "gaming", "breaking things in production"]
-};
-```
+### tech stack
 
----
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,postgres,redis,prisma" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,aws,vercel,linux" />
 
-## 💬 contact
+<br/><br/>
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1118453649727823974)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/32encrypted)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:starrykitsch@gmail.com)
+### trophy case
 
-![](https://komarev.com/ghpvc/?username=bimoraa&color=6c63ff&style=flat-square)
+<img src="https://github-profile-trophy.vercel.app/?username=bimoraa&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
----
+<br/>
 
-<sub>thanks for stopping by ✨</sub>
+### connect with me
 
----
+<a href="https://discord.com/users/1118453649727823974">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://instagram.com/32encrypted">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:starrykitsch@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=bimoraa&color=6c63ff&style=flat-square" />
+
+<br/><br/>
+
+<sub>thanks for stopping by</sub>
+
+</div>
 
 <div align="center">
 
