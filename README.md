@@ -59,40 +59,6 @@
 
 <div align="center">
 
-<a href="https://discord.com/users/1118453649727823974">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="https://instagram.com/32encrypted">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:starrykitsch@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=bimoraa&color=2F80ED&style=for-the-badge&label=VIEWS" />
-<img src="https://img.shields.io/github/followers/bimoraa?label=FOLLOWERS&style=for-the-badge&color=2F80ED" />
-<img src="https://img.shields.io/github/stars/bimoraa?label=STARS&style=for-the-badge&color=2F80ED" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EEFF,50:F5F7FA,100:E1EEFF&height=150&section=footer" width="100%"/>
 
 </div>
