@@ -1,21 +1,29 @@
 <div align="center">
 
-# hey, im bimora 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=fullstack+developer;based+in+indonesia;building+stuff+that+works" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=hey,%20im%20bimora&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=fullstack%20developer%20•%20indonesia&descAlignY=51&descAlign=50" width="100%"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=building+stuff+on+the+web;breaking+things+in+production;learning+something+new+everyday" alt="Typing SVG" />
+
+<br/>
+
+---
 
 ### github stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bimoraa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimoraa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bimoraa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimoraa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bimoraa&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bimoraa&theme=tokyonight&hide_border=true" />
 
 <br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bimoraa&theme=tokyo-night&hide_border=true&area=true" />
+
+---
 
 ### tech stack
 
@@ -25,15 +33,15 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,aws,vercel,linux" />
 
-<br/><br/>
+---
 
-### trophy case
+### achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=bimoraa&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=bimoraa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
-<br/>
+---
 
-### connect with me
+### connect
 
 <a href="https://discord.com/users/1118453649727823974">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
@@ -47,11 +55,16 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=bimoraa&color=6c63ff&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=bimoraa&color=blueviolet&style=for-the-badge&label=profile+views" />
+<img src="https://img.shields.io/github/followers/bimoraa?label=Followers&style=for-the-badge&color=blue" />
 
-<br/><br/>
+---
 
-<sub>thanks for stopping by</sub>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%"/>
 
 </div>
 
