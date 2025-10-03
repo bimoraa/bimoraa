@@ -128,7 +128,7 @@ const bio = {
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,linux,aws,vercel" />
 </div>
 
-<div align="center">
+<div align="left">
   
 ```javascript
 const bimora = {
