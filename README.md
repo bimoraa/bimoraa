@@ -87,7 +87,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
 ```javascript
 const bio = {
