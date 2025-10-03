@@ -1,10 +1,46 @@
-<div align="center">
-
 # hey, im bimora 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=fullstack+developer;based+in+indonesia+%F0%9F%87%AE%F0%9F%87%A9;building+stuff+that+works" alt="Typing SVG" />
+> fullstack developer from indonesia • building stuff that (hopefully) works
 
-</div>
+---
+
+## 📊 github stats
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bimoraa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimoraa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9"/>
+</p>
+
+---
+
+## 🛠️ tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,python,mongodb,postgres,docker,git" />
+</p>
+
+```javascript
+const bio = {
+    location: "indonesia",
+    languages: ["javascript", "typescript", "python", "lua"],
+    currently: "building web apps & learning new stuff",
+    hobbies: ["coding", "gaming", "breaking things in production"]
+};
+```
+
+---
+
+## 💬 contact
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1118453649727823974)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/32encrypted)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:starrykitsch@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=bimoraa&color=6c63ff&style=flat-square)
+
+---
+
+<sub>thanks for stopping by ✨</sub>
 
 ---
 
