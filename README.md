@@ -1,13 +1,4 @@
-<!-- gue cinta epep -->
-<div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EEFF,50:F5F7FA,100:E1EEFF&height=240&section=header&text=Bimora&fontSize=75&fontColor=2F80ED&animation=twinkling&fontAlignY=38&desc=Fullstack%20Developer%20from%20Indonesia&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
-
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=20&pause=1200&color=2F80ED&center=true&vCenter=true&width=500&lines=Building+Web+Applications;Exploring+New+Technologies;Open+to+Collaboration" />
-
----
 
 <!-- Stats -->
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=bimoraa&show_icons=true&theme=default&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=333&bg_color=ffffff&include_all_commits=true&count_private=true"/>
