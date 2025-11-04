@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- Stats -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bimoraa&show_icons=true&theme=default&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=333&bg_color=ffffff&include_all_commits=true&count_private=true"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimoraa&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=2F80ED&text_color=333&bg_color=ffffff"/>
 
 <!-- Streak -->
