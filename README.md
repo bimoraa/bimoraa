@@ -21,12 +21,4 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,aws,vercel,linux&theme=light" />
 
----
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=bimoraa&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage" />
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EEFF,50:F5F7FA,100:E1EEFF&height=150&section=footer" width="100%"/>
-
 </div>
