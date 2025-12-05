@@ -1,11 +1,13 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bimoraa&show_icons=true&theme=default&hide_border=true&title_color=2F80ED&text_color=333&icon_color=2F80ED&bg_color=ffffff"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimoraa&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=2F80ED&text_color=333&bg_color=ffffff"/>
+<img src="https://raw.githubusercontent.com/bimoraa/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+<img src="https://raw.githubusercontent.com/bimoraa/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
+<img src="https://raw.githubusercontent.com/bimoraa/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+<img src="https://raw.githubusercontent.com/bimoraa/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
 
 <!-- Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bimoraa&theme=default&hide_border=true&background=FFFFFF&stroke=2F80ED&ring=2F80ED&fire=FF6B6B&currStreakNum=333&sideNums=333&currStreakLabel=2F80ED&sideLabels=2F80ED&dates=666" />
+<img src="https://streak-stats.demolab.com/? user=bimoraa&theme=default&hide_border=true&background=FFFFFF&stroke=2F80ED&ring=2F80ED&fire=FF6B6B&currStreakNum=333&sideNums=333&currStreakLabel=2F80ED&sideLabels=2F80ED&dates=666" />
 
 ---
 
