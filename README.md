@@ -6,9 +6,6 @@
 <img src="https://raw.githubusercontent.com/bimoraa/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
 <img src="https://raw.githubusercontent.com/bimoraa/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
 
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com/? user=bimoraa&theme=default&hide_border=true&background=FFFFFF&stroke=2F80ED&ring=2F80ED&fire=FF6B6B&currStreakNum=333&sideNums=333&currStreakLabel=2F80ED&sideLabels=2F80ED&dates=666" />
-
 ---
 
 <!-- Activity Graph -->
