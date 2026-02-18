@@ -25,8 +25,6 @@
 
 <!-- Activity Graph — dark mode -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bimoraa&bg_color=0d1117&color=2F80ED&line=2F80ED&point=ffffff&area_color=1e3a5f&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6#gh-dark-mode-only" />
-<!-- Activity Graph — light mode -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bimoraa&bg_color=ffffff&color=333&line=2F80ED&point=2F80ED&area_color=E1EEFF&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6#gh-light-mode-only" />
 
 ---
 
