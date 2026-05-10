@@ -1,16 +1,3 @@
-<div align="center">
-
-<!-- Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=2F80ED&center=true&vCenter=true&width=500&lines=안녕%2C+bimoraa임;풀스택+개발자;웹으로+뭐든+만듦" alt="header" />
-
-<br/>
-
-[![followers](https://img.shields.io/github/followers/bimoraa?style=flat&color=2F80ED&labelColor=0d1117&logo=github&label=followers)](https://github.com/bimoraa)
-[![stars](https://img.shields.io/github/stars/bimoraa?style=flat&color=2F80ED&labelColor=0d1117&logo=github&label=stars)](https://github.com/bimoraa)
-
-</div>
-
----
 
 ### 소개
 
