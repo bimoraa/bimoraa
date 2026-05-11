@@ -18,10 +18,24 @@
 const bimoraa = {
   role:      "fullstack dev",
   stack:     ["typescript", "react", "node"],
+  languages: ["한국어", "中文", "bahasa indonesia", "english (a bit)"],
   currently: "building stuff for the web",
   mood:      "ㅎㅎ",
 };
 ```
+
+<br/>
+
+## 언어 · languages
+
+<div align="center">
+
+![Korean](https://img.shields.io/badge/한국어-2F80ED?style=flat-square&labelColor=0d1117)
+![Mandarin](https://img.shields.io/badge/中文-2F80ED?style=flat-square&labelColor=0d1117)
+![Indonesian](https://img.shields.io/badge/bahasa_indonesia-2F80ED?style=flat-square&labelColor=0d1117)
+![English](https://img.shields.io/badge/english_(a_bit)-2F80ED?style=flat-square&labelColor=0d1117)
+
+</div>
 
 <br/>
 
