@@ -1,8 +1,8 @@
 <div align="center">
 
-### `안녕하세요, bimoraa입니다`
+### bimoraa
 
-**fullstack developer**
+fullstack developer
 
 [![profile views](https://komarev.com/ghpvc/?username=bimoraa&style=flat-square&color=2F80ED&labelColor=0d1117&label=views)](https://github.com/bimoraa)
 [![followers](https://img.shields.io/github/followers/bimoraa?style=flat-square&color=2F80ED&labelColor=0d1117&logo=github&label=followers)](https://github.com/bimoraa)
@@ -12,46 +12,32 @@
 
 <br/>
 
-## 소개 · about
+## About
 
 ```ts
 const bimoraa = {
-  role:      "fullstack dev",
+  role:      "fullstack developer",
   stack:     ["typescript", "react", "node"],
-  languages: ["한국어", "中文", "bahasa indonesia", "english (a bit)"],
-  currently: "building stuff for the web",
-  mood:      "ㅎㅎ",
+  languages: ["korean", "mandarin", "indonesian", "english"],
+  affiliation: "Synced Code — KR Developer Circle",
 };
 ```
 
 <br/>
 
-## 언어 · languages
+## Stack
 
 <div align="center">
 
-![Korean](https://img.shields.io/badge/한국어-2F80ED?style=flat-square&labelColor=0d1117)
-![Mandarin](https://img.shields.io/badge/中文-2F80ED?style=flat-square&labelColor=0d1117)
-![Indonesian](https://img.shields.io/badge/bahasa_indonesia-2F80ED?style=flat-square&labelColor=0d1117)
-![English](https://img.shields.io/badge/english_(a_bit)-2F80ED?style=flat-square&labelColor=0d1117)
-
-</div>
-
-<br/>
-
-## 스택 · stack
-
-<div align="center">
-
-`frontend`
+Frontend
 
 ![](https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,html,css)
 
-`backend`
+Backend
 
 ![](https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,postgres,redis,prisma)
 
-`tools`
+Tools
 
 ![](https://skillicons.dev/icons?i=git,github,docker,vscode,figma,aws,vercel,linux)
 
@@ -59,7 +45,30 @@ const bimoraa = {
 
 <br/>
 
-## 스탯 · stats
+## Languages
+
+<div align="center">
+
+![Korean](https://img.shields.io/badge/Korean-2F80ED?style=flat-square&labelColor=0d1117)
+![Mandarin](https://img.shields.io/badge/Mandarin-2F80ED?style=flat-square&labelColor=0d1117)
+![Indonesian](https://img.shields.io/badge/Indonesian-2F80ED?style=flat-square&labelColor=0d1117)
+![English](https://img.shields.io/badge/English-2F80ED?style=flat-square&labelColor=0d1117)
+
+</div>
+
+<br/>
+
+## Affiliation
+
+<div align="center">
+
+Part of **Synced Code** — KR Developer Circle
+
+</div>
+
+<br/>
+
+## Stats
 
 <div align="center">
 
@@ -83,13 +92,5 @@ const bimoraa = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bimoraa/bimoraa/output/github-contribution-grid-snake.svg">
   <img alt="snake" src="https://raw.githubusercontent.com/bimoraa/bimoraa/output/github-contribution-grid-snake.svg" width="98%">
 </picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-`thanks for visiting · 와줘서 고마워요`
 
 </div>
