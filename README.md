@@ -1,6 +1,6 @@
 
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=bimoraa&label=%ED%94%84%EB%A1%9C%ED%95%84%20%EC%A1%B0%ED%9A%8C%EC%88%98&color=0e75b6&style=flat" alt="프로필 조회수" />
 </p>
 
