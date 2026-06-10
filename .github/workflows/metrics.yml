@@ -56,9 +56,8 @@ jobs:
           plugin_languages_limit: 12
           plugin_languages_threshold: 0%
           plugin_languages_colors: github
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
           plugin_languages_details: percentage, bytes-size
-          plugin_languages_indepth: yes
           plugin_languages_categories: markup, programming
 
       # 4) stars — repo yang baru di-star
