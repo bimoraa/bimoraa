@@ -27,11 +27,9 @@ jobs:
           plugin_gists: yes
           plugin_lines: yes
           plugin_lines_repositories_limit: 4
-          # Sembunyikan "Joined GitHub X ago" di header (baris dgn ikon clock)
+          # Sembunyikan baris "Joined GitHub X ago" (field pertama di header)
           extras_css: |
-            .field.column.row:has(> svg.octicon-clock),
-            .field .column svg.octicon-clock,
-            svg.octicon-clock { display: none !important; visibility: hidden !important; }
+            .row section .field:first-child { display: none !important; }
 
       # 2) isocalendar — kalender kontribusi 1 tahun (3D)
       - name: Metrics (isocalendar full-year)
