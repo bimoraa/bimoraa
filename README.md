@@ -1,23 +1,115 @@
+name: Metrics
+on:
+  # Auto-refresh tiap 00:00 UTC
+  schedule: [{ cron: "0 0 * * *" }]
+  # Bisa run manual dari tab Actions
+  workflow_dispatch:
+  # Refresh juga saat push ke main
+  push: { branches: ["main", "master"] }
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # 1) classic — header/activity/community/repos/metadata + traffic/gists/lines
+      - name: Metrics (classic)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.classic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bimoraa
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Seoul
+          config_animations: yes
+          plugin_traffic: yes
+          plugin_gists: yes
+          plugin_lines: yes
+          plugin_lines_repositories_limit: 4
+          # Sembunyikan "Joined GitHub X ago" di header (baris dgn ikon clock)
+          extras_css: |
+            .field.column.row:has(> svg.octicon-clock),
+            .field .column svg.octicon-clock,
+            svg.octicon-clock { display: none !important; visibility: hidden !important; }
 
+      # 2) isocalendar — kalender kontribusi 1 tahun (3D)
+      - name: Metrics (isocalendar full-year)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bimoraa
+          base: ""
+          config_timezone: Asia/Seoul
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bimoraa&label=%ED%94%84%EB%A1%9C%ED%95%84%20%EC%A1%B0%ED%9A%8C%EC%88%98&color=0e75b6&style=flat" alt="프로필 조회수" />
-</p>
+      # 3) languages — bahasa paling sering dipakai
+      - name: Metrics (most used languages)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bimoraa
+          base: ""
+          commits_authoring: bimoraa, bimoraa@users.noreply.github.com
+          plugin_languages: yes
+          plugin_languages_limit: 12
+          plugin_languages_threshold: 0%
+          plugin_languages_colors: github
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_details: percentage, bytes-size
+          plugin_languages_indepth: yes
+          plugin_languages_categories: markup, programming
 
-<div align="center">
- <table>
-   <tr>
-     <td rowspan="2"><img src="./metrics.classic.svg" alt="classic" /></td>
-     <td><img src="./metrics.plugin.isocalendar.fullyear.svg" alt="fullyear" /></td>
-   </tr>
-   <tr>
-     <td><img src="./metrics.plugin.languages.svg" alt="languages" /></td>
-   </tr>
-   <tr>
-     <td rowspan="2"><img src="./metrics.plugin.stars.svg" alt="stars" /></td>
-   </tr>
-   <tr>
-     <td><img src="./metrics.plugin.achievements.svg" alt="achievements" /></td>
-   </tr>
- </table>
-</div>
+      # 4) stars — repo yang baru di-star
+      - name: Metrics (recently starred)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bimoraa
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 3
+
+      # 5) achievements — GitHub achievements
+      - name: Metrics (achievements)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bimoraa
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 0
+
+      # 6) habits — pola coding (jam aktif, bahasa)
+      - name: Metrics (habits)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bimoraa
+          base: ""
+          config_timezone: Asia/Seoul
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+      # 7) notable — kontribusi di repo populer
+      - name: Metrics (notable contributions)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.notable.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bimoraa
+          base: ""
+          plugin_notable: yes
+          plugin_notable_repositories: yes
