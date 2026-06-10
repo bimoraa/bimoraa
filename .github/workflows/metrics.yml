@@ -1,7 +1,10 @@
 name: Metrics
 on:
+  # Auto-refresh tiap 00:00 UTC
   schedule: [{ cron: "0 0 * * *" }]
+  # Bisa run manual dari tab Actions
   workflow_dispatch:
+  # Refresh juga saat push ke main
   push: { branches: ["main", "master"] }
 jobs:
   github-metrics:
@@ -24,10 +27,11 @@ jobs:
           plugin_gists: yes
           plugin_lines: yes
           plugin_lines_repositories_limit: 4
-          # Sembunyikan "Joined X ago" di header
+          # Sembunyikan "Joined GitHub X ago" di header (baris dgn ikon clock)
           extras_css: |
-            .field.column .row:has(svg.octicon-clock),
-            section.field a[href$="?tab=overview"]:has(.octicon-clock) { display: none !important; }
+            .field.column.row:has(> svg.octicon-clock),
+            .field .column svg.octicon-clock,
+            svg.octicon-clock { display: none !important; visibility: hidden !important; }
 
       # 2) isocalendar — kalender kontribusi 1 tahun (3D)
       - name: Metrics (isocalendar full-year)
