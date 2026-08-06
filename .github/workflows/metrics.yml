@@ -12,6 +12,11 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Check out profile files
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          fetch-depth: 1
+
       # Render the main profile card.
       - name: Metrics (classic)
         uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
