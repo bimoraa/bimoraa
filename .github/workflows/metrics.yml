@@ -1,10 +1,10 @@
 name: Metrics
 on:
-  # Auto-refresh tiap 00:00 UTC
+  # Refresh once per day.
   schedule: [{ cron: "0 0 * * *" }]
-  # Bisa run manual dari tab Actions
+  # Allow manual refreshes from the Actions tab.
   workflow_dispatch:
-  # Refresh juga saat push ke main
+  # Refresh after changes to the profile.
   push: { branches: ["main", "master"] }
 jobs:
   github-metrics:
@@ -12,9 +12,9 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 1) classic — header/activity/community/repos/metadata + traffic/gists/lines
+      # Render the main profile card.
       - name: Metrics (classic)
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -23,17 +23,17 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Seoul
           config_animations: yes
-          plugin_traffic: yes
           plugin_gists: yes
           plugin_lines: yes
           plugin_lines_repositories_limit: 4
-          # Sembunyikan baris "Joined GitHub X ago" (field pertama di header)
+          plugins_errors_fatal: yes
+          # Hide the first header field containing the account age.
           extras_css: |
             .row section .field:first-child { display: none !important; }
 
-      # 2) isocalendar — kalender kontribusi 1 tahun (3D)
+      # Render the full-year contribution calendar.
       - name: Metrics (isocalendar full-year)
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -42,27 +42,40 @@ jobs:
           config_timezone: Asia/Seoul
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          plugins_errors_fatal: yes
 
-      # 3) languages — bahasa paling sering dipakai
-      - name: Metrics (most used languages)
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: bimoraa
-          base: ""
-          commits_authoring: bimoraa, bimoraa@users.noreply.github.com
-          plugin_languages: yes
-          plugin_languages_limit: 12
-          plugin_languages_threshold: 0%
-          plugin_languages_colors: github
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage, bytes-size
-          plugin_languages_categories: markup, programming
+      # Generate languages from the REST API because the upstream plugin can return an empty card.
+      - name: Generate language metrics
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: python3 .github/scripts/generate_languages.py
 
-      # 4) stars — repo yang baru di-star
+      # Commit the generated language card without requiring a local checkout.
+      - name: Publish language metrics
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          content_url="repos/${GITHUB_REPOSITORY}/contents/metrics.plugin.languages.svg"
+          file_sha="$(gh api "${content_url}?ref=${GITHUB_REF_NAME}" --jq '.sha' 2>/dev/null || true)"
+          encoded_content="$(base64 < metrics.plugin.languages.svg | tr -d '\n')"
+          if [[ -n "${file_sha}" ]]; then
+            gh api --method PUT "${content_url}" \
+              -f message='Update metrics.plugin.languages.svg - [Skip GitHub Action]' \
+              -f content="${encoded_content}" \
+              -f sha="${file_sha}" \
+              -f branch="${GITHUB_REF_NAME}" >/dev/null
+          else
+            gh api --method PUT "${content_url}" \
+              -f message='Add metrics.plugin.languages.svg - [Skip GitHub Action]' \
+              -f content="${encoded_content}" \
+              -f branch="${GITHUB_REF_NAME}" >/dev/null
+          fi
+
+      # Render recently starred repositories.
       - name: Metrics (recently starred)
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
         with:
           filename: metrics.plugin.stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -70,39 +83,11 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 3
+          plugins_errors_fatal: yes
 
-      # 5) achievements — GitHub achievements
-      - name: Metrics (achievements)
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: bimoraa
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_secrets: yes
-          plugin_achievements_display: compact
-          plugin_achievements_limit: 0
-
-      # 6) habits — pola coding (jam aktif, bahasa)
-      - name: Metrics (habits)
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: bimoraa
-          base: ""
-          config_timezone: Asia/Seoul
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
-      # 7) notable — kontribusi di repo populer
+      # Render notable contributions.
       - name: Metrics (notable contributions)
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
         with:
           filename: metrics.plugin.notable.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -110,3 +95,4 @@ jobs:
           base: ""
           plugin_notable: yes
           plugin_notable_repositories: yes
+          plugins_errors_fatal: yes
