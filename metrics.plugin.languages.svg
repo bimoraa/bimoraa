@@ -4,35 +4,35 @@
   <text class="heading" x="8" y="22">23 Languages</text>
   <text class="label" x="8" y="45">Most used languages</text>
   <rect x="10" y="54" width="460" height="8" rx="5" fill="#ebedf0"/>
-  <rect x="10.00" y="54" width="299.72" height="8" fill="#3178c6"/>
-  <rect x="309.72" y="54" width="57.27" height="8" fill="#000080"/>
-  <rect x="366.99" y="54" width="56.95" height="8" fill="#00a2ff"/>
-  <rect x="423.94" y="54" width="11.18" height="8" fill="#f1e05a"/>
-  <rect x="435.12" y="54" width="8.74" height="8" fill="#959da5"/>
-  <rect x="443.86" y="54" width="4.95" height="8" fill="#959da5"/>
-  <rect x="448.82" y="54" width="4.79" height="8" fill="#563d7c"/>
-  <rect x="453.61" y="54" width="4.30" height="8" fill="#3572a5"/>
+  <rect x="10.00" y="54" width="299.55" height="8" fill="#3178c6"/>
+  <rect x="309.55" y="54" width="57.57" height="8" fill="#000080"/>
+  <rect x="367.12" y="54" width="57.25" height="8" fill="#00a2ff"/>
+  <rect x="424.36" y="54" width="11.17" height="8" fill="#f1e05a"/>
+  <rect x="435.53" y="54" width="8.79" height="8" fill="#959da5"/>
+  <rect x="444.32" y="54" width="4.79" height="8" fill="#563d7c"/>
+  <rect x="449.10" y="54" width="4.42" height="8" fill="#959da5"/>
+  <rect x="453.53" y="54" width="4.33" height="8" fill="#3572a5"/>
   <circle cx="16" cy="80" r="4" fill="#3178c6"/>
   <text class="label" x="28" y="84">TypeScript</text>
-  <text class="detail" x="470" y="84" text-anchor="end">65.16%</text>
+  <text class="detail" x="470" y="84" text-anchor="end">65.12%</text>
   <circle cx="16" cy="104" r="4" fill="#000080"/>
   <text class="label" x="28" y="108">Lua</text>
-  <text class="detail" x="470" y="108" text-anchor="end">12.45%</text>
+  <text class="detail" x="470" y="108" text-anchor="end">12.51%</text>
   <circle cx="16" cy="128" r="4" fill="#00a2ff"/>
   <text class="label" x="28" y="132">Luau</text>
-  <text class="detail" x="470" y="132" text-anchor="end">12.38%</text>
+  <text class="detail" x="470" y="132" text-anchor="end">12.44%</text>
   <circle cx="16" cy="152" r="4" fill="#f1e05a"/>
   <text class="label" x="28" y="156">JavaScript</text>
   <text class="detail" x="470" y="156" text-anchor="end">2.43%</text>
   <circle cx="16" cy="176" r="4" fill="#959da5"/>
   <text class="label" x="28" y="180">Rust</text>
-  <text class="detail" x="470" y="180" text-anchor="end">1.90%</text>
-  <circle cx="16" cy="200" r="4" fill="#959da5"/>
-  <text class="label" x="28" y="204">MDX</text>
-  <text class="detail" x="470" y="204" text-anchor="end">1.08%</text>
-  <circle cx="16" cy="224" r="4" fill="#563d7c"/>
-  <text class="label" x="28" y="228">CSS</text>
-  <text class="detail" x="470" y="228" text-anchor="end">1.04%</text>
+  <text class="detail" x="470" y="180" text-anchor="end">1.91%</text>
+  <circle cx="16" cy="200" r="4" fill="#563d7c"/>
+  <text class="label" x="28" y="204">CSS</text>
+  <text class="detail" x="470" y="204" text-anchor="end">1.04%</text>
+  <circle cx="16" cy="224" r="4" fill="#959da5"/>
+  <text class="label" x="28" y="228">MDX</text>
+  <text class="detail" x="470" y="228" text-anchor="end">0.96%</text>
   <circle cx="16" cy="248" r="4" fill="#3572a5"/>
   <text class="label" x="28" y="252">Python</text>
   <text class="detail" x="470" y="252" text-anchor="end">0.94%</text>
