@@ -1,39 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="278" role="img">
   <title>Most used programming languages</title>
   <style>svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;color:#777}.heading{fill:#0366d6;font-size:16px}.label{fill:#777;font-size:14px}.detail{fill:#666;font-size:12px}</style>
-  <text class="heading" x="8" y="22">23 Languages</text>
+  <text class="heading" x="8" y="22">24 Languages</text>
   <text class="label" x="8" y="45">Most used languages</text>
   <rect x="10" y="54" width="460" height="8" rx="5" fill="#ebedf0"/>
-  <rect x="10.00" y="54" width="300.01" height="8" fill="#3178c6"/>
-  <rect x="310.01" y="54" width="57.39" height="8" fill="#000080"/>
-  <rect x="367.40" y="54" width="57.07" height="8" fill="#00a2ff"/>
-  <rect x="424.46" y="54" width="11.16" height="8" fill="#f1e05a"/>
-  <rect x="435.62" y="54" width="8.76" height="8" fill="#959da5"/>
-  <rect x="444.38" y="54" width="4.79" height="8" fill="#563d7c"/>
-  <rect x="449.17" y="54" width="4.41" height="8" fill="#959da5"/>
-  <rect x="453.58" y="54" width="4.31" height="8" fill="#3572a5"/>
+  <rect x="10.00" y="54" width="294.52" height="8" fill="#3178c6"/>
+  <rect x="304.52" y="54" width="55.50" height="8" fill="#000080"/>
+  <rect x="360.02" y="54" width="55.19" height="8" fill="#00a2ff"/>
+  <rect x="415.22" y="54" width="18.48" height="8" fill="#959da5"/>
+  <rect x="433.69" y="54" width="10.79" height="8" fill="#f1e05a"/>
+  <rect x="444.48" y="54" width="4.65" height="8" fill="#563d7c"/>
+  <rect x="449.14" y="54" width="4.26" height="8" fill="#959da5"/>
+  <rect x="453.40" y="54" width="4.17" height="8" fill="#3572a5"/>
   <circle cx="16" cy="80" r="4" fill="#3178c6"/>
   <text class="label" x="28" y="84">TypeScript</text>
-  <text class="detail" x="470" y="84" text-anchor="end">65.22%</text>
+  <text class="detail" x="470" y="84" text-anchor="end">64.03%</text>
   <circle cx="16" cy="104" r="4" fill="#000080"/>
   <text class="label" x="28" y="108">Lua</text>
-  <text class="detail" x="470" y="108" text-anchor="end">12.48%</text>
+  <text class="detail" x="470" y="108" text-anchor="end">12.07%</text>
   <circle cx="16" cy="128" r="4" fill="#00a2ff"/>
   <text class="label" x="28" y="132">Luau</text>
-  <text class="detail" x="470" y="132" text-anchor="end">12.41%</text>
-  <circle cx="16" cy="152" r="4" fill="#f1e05a"/>
-  <text class="label" x="28" y="156">JavaScript</text>
-  <text class="detail" x="470" y="156" text-anchor="end">2.43%</text>
-  <circle cx="16" cy="176" r="4" fill="#959da5"/>
-  <text class="label" x="28" y="180">Rust</text>
-  <text class="detail" x="470" y="180" text-anchor="end">1.90%</text>
+  <text class="detail" x="470" y="132" text-anchor="end">12.00%</text>
+  <circle cx="16" cy="152" r="4" fill="#959da5"/>
+  <text class="label" x="28" y="156">Rust</text>
+  <text class="detail" x="470" y="156" text-anchor="end">4.02%</text>
+  <circle cx="16" cy="176" r="4" fill="#f1e05a"/>
+  <text class="label" x="28" y="180">JavaScript</text>
+  <text class="detail" x="470" y="180" text-anchor="end">2.35%</text>
   <circle cx="16" cy="200" r="4" fill="#563d7c"/>
   <text class="label" x="28" y="204">CSS</text>
-  <text class="detail" x="470" y="204" text-anchor="end">1.04%</text>
+  <text class="detail" x="470" y="204" text-anchor="end">1.01%</text>
   <circle cx="16" cy="224" r="4" fill="#959da5"/>
   <text class="label" x="28" y="228">MDX</text>
-  <text class="detail" x="470" y="228" text-anchor="end">0.96%</text>
+  <text class="detail" x="470" y="228" text-anchor="end">0.93%</text>
   <circle cx="16" cy="248" r="4" fill="#3572a5"/>
   <text class="label" x="28" y="252">Python</text>
-  <text class="detail" x="470" y="252" text-anchor="end">0.94%</text>
+  <text class="detail" x="470" y="252" text-anchor="end">0.91%</text>
 </svg>
