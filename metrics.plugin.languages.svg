@@ -4,17 +4,17 @@
   <text class="heading" x="8" y="22">24 Languages</text>
   <text class="label" x="8" y="45">Most used languages</text>
   <rect x="10" y="54" width="460" height="8" rx="5" fill="#ebedf0"/>
-  <rect x="10.00" y="54" width="294.51" height="8" fill="#3178c6"/>
-  <rect x="304.51" y="54" width="55.71" height="8" fill="#000080"/>
-  <rect x="360.22" y="54" width="55.40" height="8" fill="#00a2ff"/>
-  <rect x="415.62" y="54" width="18.55" height="8" fill="#959da5"/>
-  <rect x="434.17" y="54" width="10.76" height="8" fill="#f1e05a"/>
-  <rect x="444.93" y="54" width="4.66" height="8" fill="#563d7c"/>
-  <rect x="449.60" y="54" width="4.19" height="8" fill="#3572a5"/>
-  <rect x="453.78" y="54" width="3.74" height="8" fill="#959da5"/>
+  <rect x="10.00" y="54" width="294.61" height="8" fill="#3178c6"/>
+  <rect x="304.61" y="54" width="55.69" height="8" fill="#000080"/>
+  <rect x="360.31" y="54" width="55.38" height="8" fill="#00a2ff"/>
+  <rect x="415.69" y="54" width="18.54" height="8" fill="#959da5"/>
+  <rect x="434.23" y="54" width="10.76" height="8" fill="#f1e05a"/>
+  <rect x="444.99" y="54" width="4.66" height="8" fill="#563d7c"/>
+  <rect x="449.65" y="54" width="4.18" height="8" fill="#3572a5"/>
+  <rect x="453.83" y="54" width="3.74" height="8" fill="#959da5"/>
   <circle cx="16" cy="80" r="4" fill="#3178c6"/>
   <text class="label" x="28" y="84">TypeScript</text>
-  <text class="detail" x="470" y="84" text-anchor="end">64.02%</text>
+  <text class="detail" x="470" y="84" text-anchor="end">64.05%</text>
   <circle cx="16" cy="104" r="4" fill="#000080"/>
   <text class="label" x="28" y="108">Lua</text>
   <text class="detail" x="470" y="108" text-anchor="end">12.11%</text>
