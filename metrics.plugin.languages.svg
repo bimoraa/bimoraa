@@ -4,23 +4,23 @@
   <text class="heading" x="8" y="22">22 Languages</text>
   <text class="label" x="8" y="45">Most used languages</text>
   <rect x="10" y="54" width="460" height="8" rx="5" fill="#ebedf0"/>
-  <rect x="10.00" y="54" width="261.10" height="8" fill="#3178c6"/>
-  <rect x="271.10" y="54" width="73.90" height="8" fill="#959da5"/>
-  <rect x="344.99" y="54" width="46.78" height="8" fill="#000080"/>
-  <rect x="391.77" y="54" width="46.52" height="8" fill="#00a2ff"/>
-  <rect x="438.30" y="54" width="9.59" height="8" fill="#f1e05a"/>
+  <rect x="10.00" y="54" width="260.98" height="8" fill="#3178c6"/>
+  <rect x="270.98" y="54" width="74.06" height="8" fill="#959da5"/>
+  <rect x="345.05" y="54" width="46.76" height="8" fill="#000080"/>
+  <rect x="391.80" y="54" width="46.51" height="8" fill="#00a2ff"/>
+  <rect x="438.31" y="54" width="9.59" height="8" fill="#f1e05a"/>
   <rect x="447.89" y="54" width="4.27" height="8" fill="#3572a5"/>
-  <rect x="452.15" y="54" width="3.96" height="8" fill="#563d7c"/>
-  <rect x="456.11" y="54" width="3.14" height="8" fill="#959da5"/>
+  <rect x="452.16" y="54" width="3.95" height="8" fill="#563d7c"/>
+  <rect x="456.12" y="54" width="3.14" height="8" fill="#959da5"/>
   <circle cx="16" cy="80" r="4" fill="#3178c6"/>
   <text class="label" x="28" y="84">TypeScript</text>
-  <text class="detail" x="470" y="84" text-anchor="end">56.76%</text>
+  <text class="detail" x="470" y="84" text-anchor="end">56.74%</text>
   <circle cx="16" cy="104" r="4" fill="#959da5"/>
   <text class="label" x="28" y="108">Rust</text>
-  <text class="detail" x="470" y="108" text-anchor="end">16.06%</text>
+  <text class="detail" x="470" y="108" text-anchor="end">16.10%</text>
   <circle cx="16" cy="128" r="4" fill="#000080"/>
   <text class="label" x="28" y="132">Lua</text>
-  <text class="detail" x="470" y="132" text-anchor="end">10.17%</text>
+  <text class="detail" x="470" y="132" text-anchor="end">10.16%</text>
   <circle cx="16" cy="152" r="4" fill="#00a2ff"/>
   <text class="label" x="28" y="156">Luau</text>
   <text class="detail" x="470" y="156" text-anchor="end">10.11%</text>
