@@ -4,26 +4,26 @@
   <text class="heading" x="8" y="22">22 Languages</text>
   <text class="label" x="8" y="45">Most used languages</text>
   <rect x="10" y="54" width="460" height="8" rx="5" fill="#ebedf0"/>
-  <rect x="10.00" y="54" width="250.85" height="8" fill="#3178c6"/>
-  <rect x="260.85" y="54" width="88.84" height="8" fill="#959da5"/>
-  <rect x="349.69" y="54" width="44.92" height="8" fill="#000080"/>
-  <rect x="394.61" y="54" width="44.68" height="8" fill="#00a2ff"/>
-  <rect x="439.29" y="54" width="9.35" height="8" fill="#f1e05a"/>
-  <rect x="448.65" y="54" width="4.55" height="8" fill="#3572a5"/>
-  <rect x="453.20" y="54" width="3.74" height="8" fill="#563d7c"/>
-  <rect x="456.94" y="54" width="2.77" height="8" fill="#e34c26"/>
+  <rect x="10.00" y="54" width="250.08" height="8" fill="#3178c6"/>
+  <rect x="260.08" y="54" width="89.98" height="8" fill="#959da5"/>
+  <rect x="350.06" y="54" width="44.78" height="8" fill="#000080"/>
+  <rect x="394.85" y="54" width="44.54" height="8" fill="#00a2ff"/>
+  <rect x="439.39" y="54" width="9.33" height="8" fill="#f1e05a"/>
+  <rect x="448.71" y="54" width="4.54" height="8" fill="#3572a5"/>
+  <rect x="453.25" y="54" width="3.73" height="8" fill="#563d7c"/>
+  <rect x="456.98" y="54" width="2.76" height="8" fill="#e34c26"/>
   <circle cx="16" cy="80" r="4" fill="#3178c6"/>
   <text class="label" x="28" y="84">TypeScript</text>
-  <text class="detail" x="470" y="84" text-anchor="end">54.53%</text>
+  <text class="detail" x="470" y="84" text-anchor="end">54.37%</text>
   <circle cx="16" cy="104" r="4" fill="#959da5"/>
   <text class="label" x="28" y="108">Rust</text>
-  <text class="detail" x="470" y="108" text-anchor="end">19.31%</text>
+  <text class="detail" x="470" y="108" text-anchor="end">19.56%</text>
   <circle cx="16" cy="128" r="4" fill="#000080"/>
   <text class="label" x="28" y="132">Lua</text>
-  <text class="detail" x="470" y="132" text-anchor="end">9.77%</text>
+  <text class="detail" x="470" y="132" text-anchor="end">9.74%</text>
   <circle cx="16" cy="152" r="4" fill="#00a2ff"/>
   <text class="label" x="28" y="156">Luau</text>
-  <text class="detail" x="470" y="156" text-anchor="end">9.71%</text>
+  <text class="detail" x="470" y="156" text-anchor="end">9.68%</text>
   <circle cx="16" cy="176" r="4" fill="#f1e05a"/>
   <text class="label" x="28" y="180">JavaScript</text>
   <text class="detail" x="470" y="180" text-anchor="end">2.03%</text>
