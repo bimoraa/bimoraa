@@ -4,26 +4,26 @@
   <text class="heading" x="8" y="22">22 Languages</text>
   <text class="label" x="8" y="45">Most used languages</text>
   <rect x="10" y="54" width="460" height="8" rx="5" fill="#ebedf0"/>
-  <rect x="10.00" y="54" width="242.43" height="8" fill="#3178c6"/>
-  <rect x="252.43" y="54" width="91.42" height="8" fill="#959da5"/>
-  <rect x="343.85" y="54" width="43.32" height="8" fill="#000080"/>
-  <rect x="387.17" y="54" width="43.08" height="8" fill="#00a2ff"/>
-  <rect x="430.25" y="54" width="12.43" height="8" fill="#e34c26"/>
+  <rect x="10.00" y="54" width="242.27" height="8" fill="#3178c6"/>
+  <rect x="252.27" y="54" width="91.63" height="8" fill="#959da5"/>
+  <rect x="343.91" y="54" width="43.29" height="8" fill="#000080"/>
+  <rect x="387.20" y="54" width="43.06" height="8" fill="#00a2ff"/>
+  <rect x="430.25" y="54" width="12.42" height="8" fill="#e34c26"/>
   <rect x="442.68" y="54" width="9.02" height="8" fill="#f1e05a"/>
   <rect x="451.70" y="54" width="4.63" height="8" fill="#3572a5"/>
-  <rect x="456.33" y="54" width="3.72" height="8" fill="#563d7c"/>
+  <rect x="456.32" y="54" width="3.72" height="8" fill="#563d7c"/>
   <circle cx="16" cy="80" r="4" fill="#3178c6"/>
   <text class="label" x="28" y="84">TypeScript</text>
-  <text class="detail" x="470" y="84" text-anchor="end">52.70%</text>
+  <text class="detail" x="470" y="84" text-anchor="end">52.67%</text>
   <circle cx="16" cy="104" r="4" fill="#959da5"/>
   <text class="label" x="28" y="108">Rust</text>
-  <text class="detail" x="470" y="108" text-anchor="end">19.87%</text>
+  <text class="detail" x="470" y="108" text-anchor="end">19.92%</text>
   <circle cx="16" cy="128" r="4" fill="#000080"/>
   <text class="label" x="28" y="132">Lua</text>
-  <text class="detail" x="470" y="132" text-anchor="end">9.42%</text>
+  <text class="detail" x="470" y="132" text-anchor="end">9.41%</text>
   <circle cx="16" cy="152" r="4" fill="#00a2ff"/>
   <text class="label" x="28" y="156">Luau</text>
-  <text class="detail" x="470" y="156" text-anchor="end">9.37%</text>
+  <text class="detail" x="470" y="156" text-anchor="end">9.36%</text>
   <circle cx="16" cy="176" r="4" fill="#e34c26"/>
   <text class="label" x="28" y="180">HTML</text>
   <text class="detail" x="470" y="180" text-anchor="end">2.70%</text>
