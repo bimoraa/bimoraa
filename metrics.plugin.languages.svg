@@ -4,13 +4,13 @@
   <text class="heading" x="8" y="22">22 Languages</text>
   <text class="label" x="8" y="45">Most used languages</text>
   <rect x="10" y="54" width="460" height="8" rx="5" fill="#ebedf0"/>
-  <rect x="10.00" y="54" width="241.11" height="8" fill="#3178c6"/>
-  <rect x="251.11" y="54" width="88.68" height="8" fill="#959da5"/>
+  <rect x="10.00" y="54" width="241.10" height="8" fill="#3178c6"/>
+  <rect x="251.10" y="54" width="88.68" height="8" fill="#959da5"/>
   <rect x="339.78" y="54" width="41.89" height="8" fill="#000080"/>
-  <rect x="381.68" y="54" width="41.67" height="8" fill="#00a2ff"/>
-  <rect x="423.34" y="54" width="12.14" height="8" fill="#e34c26"/>
-  <rect x="435.49" y="54" width="10.38" height="8" fill="#f1e05a"/>
-  <rect x="445.86" y="54" width="7.82" height="8" fill="#f05138"/>
+  <rect x="381.67" y="54" width="41.67" height="8" fill="#00a2ff"/>
+  <rect x="423.33" y="54" width="12.14" height="8" fill="#e34c26"/>
+  <rect x="435.48" y="54" width="10.38" height="8" fill="#f1e05a"/>
+  <rect x="445.85" y="54" width="7.83" height="8" fill="#f05138"/>
   <rect x="453.68" y="54" width="5.00" height="8" fill="#3572a5"/>
   <circle cx="16" cy="80" r="4" fill="#3178c6"/>
   <text class="label" x="28" y="84">TypeScript</text>
