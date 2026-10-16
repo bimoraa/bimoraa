@@ -4,11 +4,11 @@
   <text class="heading" x="8" y="22">22 Languages</text>
   <text class="label" x="8" y="45">Most used languages</text>
   <rect x="10" y="54" width="460" height="8" rx="5" fill="#ebedf0"/>
-  <rect x="10.00" y="54" width="239.77" height="8" fill="#3178c6"/>
-  <rect x="249.77" y="54" width="88.16" height="8" fill="#959da5"/>
+  <rect x="10.00" y="54" width="239.76" height="8" fill="#3178c6"/>
+  <rect x="249.76" y="54" width="88.16" height="8" fill="#959da5"/>
   <rect x="337.93" y="54" width="41.65" height="8" fill="#000080"/>
-  <rect x="379.58" y="54" width="41.42" height="8" fill="#00a2ff"/>
-  <rect x="421.01" y="54" width="12.07" height="8" fill="#e34c26"/>
+  <rect x="379.58" y="54" width="41.43" height="8" fill="#00a2ff"/>
+  <rect x="421.00" y="54" width="12.07" height="8" fill="#e34c26"/>
   <rect x="433.08" y="54" width="10.32" height="8" fill="#f1e05a"/>
   <rect x="443.40" y="54" width="10.32" height="8" fill="#f05138"/>
   <rect x="453.72" y="54" width="4.97" height="8" fill="#3572a5"/>
